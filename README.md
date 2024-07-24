@@ -6,3 +6,7 @@
 ## JAVA SCRIPT
 ## BOOTSTRAP
 ## API
+# page preview
+# [homepage](./homeimgbefore.png)
+# [homepageafter](./homeafterseacrch.png)
+# [about](./about.png)
