@@ -6,7 +6,8 @@
 ## JAVA SCRIPT
 ## BOOTSTRAP
 ## API
-# page preview
-# [](./homeimgbefore.png)
-# [homepageafter](./homeafterseacrch.png)
-# [about](./about.png)
+# page preview before search
+![homepagebefore](./homeimgbefore.png)
+![about](./about.png)
+# page preview after search
+![homepageafter](./homeafterseacrch.png)
