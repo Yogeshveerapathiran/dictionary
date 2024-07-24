@@ -1,0 +1,14 @@
+#aboutpage{
+    text-align: center;
+    background-color: red;
+}
+footer{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    
+}
+footer,a{
+    text-decoration: none;
+    color: black;
+}
