@@ -7,6 +7,6 @@
 ## BOOTSTRAP
 ## API
 # page preview
-# [homepage](./homeimgbefore.png)
+# [](./homeimgbefore.png)
 # [homepageafter](./homeafterseacrch.png)
 # [about](./about.png)
